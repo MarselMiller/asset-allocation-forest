@@ -1,4 +1,4 @@
-# Asset Allocation Forest
+# Asset Allocation Forest (для перевода на русски листать ниже)
 
 Implementation of the Asset Allocation Forest (AAF) framework proposed by Bettencourt, Tetereva, and Petukhina (2024) for dynamic multi-asset portfolio allocation.
 
